@@ -1,1 +1,11 @@
 # POC_LLM
+
+C:\Users\laaks>ollama
+
+C:\Users\laaks>ollama serve
+
+C:\Users\laaks>ollama pull tinyllama
+
+C:\Users\laaks\OneDrive\Documents\Project>streamlit run app.py
+
+ctrl+c to stop
